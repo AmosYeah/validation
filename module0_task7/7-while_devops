@@ -1,8 +1,0 @@
-#!/bin/ksh
-x=1
-while [ $x -le 10 ]
-do
-  echo "DevOps"
-  x=$(( $x + 1 ))
-done
-
